@@ -16,7 +16,6 @@
 Velzia es un mini ERP para ventas simple y funcional.
 
 ### Modelo
-![BBD5 drawio](https://github.com/user-attachments/assets/737b6d20-3f51-46fb-8b97-49096f85bc82)
 
 
 
@@ -33,7 +32,7 @@ Regularidad:
 |CRUD simple|1. CRUD Caja<br>2. CRUD Cliente<br>3. CRUD Tasa|
 |CRUD dependiente|1. CRUD Venta {depende de} CRUD Cliente|
 |Listado<br>+<br>detalle| 1. Listado de clientes terminados filtrados por estado=> detalle descripcion de cliente<br> 2. Listado de costos fijos filtrados por fecha => detalle muestra detalle de cada costo|
-|CUU/Epic|1. Calcular ganancia marginal<br>2. Calcular proyección|
+|CUU/Epic|1. Calcular cuentas por gastar<br>2.  Calcular cuentas por cobrar|
 
 
 Adicionales para Aprobación
