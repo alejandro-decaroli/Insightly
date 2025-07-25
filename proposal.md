@@ -13,7 +13,7 @@
 
 ## Tema
 ### Descripción
-Velzia es un mini ERP para ventas simple y funcional.
+Velzia es un sistema de gestion de ventas.
 
 ### Modelo
 ![BBD_Velzia](https://github.com/user-attachments/assets/6588509e-9ef4-4123-9b3b-4216662c988d)
