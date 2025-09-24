@@ -13,10 +13,11 @@
 
 ## Tema
 ### Descripción
-Velzia es un sistema de gestion de ventas.
+Velzia es un mini ERP.
 
 ### Modelo
-![BBD_Velzia](https://github.com/user-attachments/assets/6588509e-9ef4-4123-9b3b-4216662c988d)
+
+![BBD_Velzia](https://github.com/user-attachments/assets/e17a314b-4348-4405-97b2-63c8d2b88734)
 
 
 
@@ -39,7 +40,7 @@ Regularidad:
 Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
-|CRUD |1. CRUD Caja<br>2. CRUD Cliente<br>3. CRUD Tasa<br>4. CRUD Venta<br>5. CRUD Pago<br>6. CRUD CostoVariable<br>7. CRUD CostoFijo<br>8. CRUD Transferencia<br>9. CRUD Ajuste<br>10. CRUD DividendoSocio<br>11. CRUD AporteSocio|
+|CRUD |1. CRUD Caja<br>2. CRUD Cliente<br>3. CRUD Tasa<br>4. CRUD Venta<br>5. CRUD Pago<br>6. CRUD CostoVariable<br>7. CRUD CostoFijo<br>8. CRUD Transferencia<br>9. CRUD Ajuste<br>10. CRUD DividendoSocio<br>11. CRUD AporteSocio<br>12. CRUD Producto<br>13. CRUD Detalle |
 |CUU/Epic|1. Calcular ganancia marginal<br>2. Calcular proyección<br>3. Calcular cuentas por cobrar|
 
 ### Alcance Adicional Voluntario
