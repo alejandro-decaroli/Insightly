@@ -35,13 +35,13 @@ Regularidad:
 Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
-|CRUD |1. CRUD Caja<br>2. CRUD Cliente<br>3. CRUD Tasa<br>4. CRUD Venta<br>5. CRUD Pago<br>6. CRUD CostoVariable<br>7. CRUD CostoFijo<br>8. CRUD Transferencia<br>9. CRUD Ajuste<br>10. CRUD DividendoSocio<br>11. CRUD AporteSocio<br>12. CRUD Producto<br>13. CRUD Detalle |
+|CRUD |1. CRUD Caja<br>2. CRUD Cliente<br>3. CRUD Tasa<br>4. CRUD Venta<br>5. CRUD Pago<br>6. CRUD CostoVariable<br>7. CRUD CostoFijo<br>8. CRUD Transferencia<br>9. CRUD Ajuste<br>10. CRUD DividendoSocio<br>11. CRUD AporteSocio<br>12. CRUD Producto<br>13. CRUD Detalle<br>14. CRUD Moneda<br>15. CRUD Usuario |
 |CUU/Epic||
 
 ### Alcance Adicional Voluntario
 |Req|Detalle|
 |:-|:-|
-|Listado<br>+<br>detalle| 1. Calcular cuentas por gastar<br>2. Calcular proyección<br>3. Calcular cuentas por cobrar<br>4. Producto más vendido<br>5. Producto más rentable<br>6. Cliente más rentable|
+|Listado<br>+<br>detalle| 1. Calcular cuentas por gastar<br>2. Calcular proyección<br>3. Calcular cuentas por cobrar<br>4. Reporte de ventas general |
 
 
 
