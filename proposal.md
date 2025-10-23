@@ -28,7 +28,7 @@ Regularidad:
 |:-|:-|
 |CRUD simple|1. CRUD Moneda<br>2. CRUD Cliente|
 |CRUD dependiente|1. CRUD Caja {depende de} CRUD Moneda|
-|Listado<br>+<br>detalle| 1. Listado de ventas terminados filtrados por fecha=> detalle descripcion de venta<br> 2. Listado de costos fijos filtrados por fecha => detalle muestra detalle de cada costo|
+|Listado<br>+<br>detalle| 1. Listado de ventas "Pagas" filtrados por fecha=> detalle descripcion de venta<br> 2. Listado de costos fijos filtrados por fecha => detalle muestra detalle de cada costo|
 |CUU/Epic|1. Efectuar una venta|
 
 
