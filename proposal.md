@@ -41,7 +41,7 @@ Adicionales para Aprobación
 ### Alcance Adicional Voluntario
 |Req|Detalle|
 |:-|:-|
-|Listado<br>+<br>detalle| 1. Calcular cuentas por gastar<br>2. Calcular proyección<br>3. Calcular cuentas por cobrar<br>4. Reporte de ventas general |
+|Listado<br>+<br>detalle| 1. Calcular cuentas por gastar => muestra únicamente los detalles de los costos con estado 'Pendiente' por pagar y la sumatoria de los gastos<br>2. Calcular proyección => Muestra la sumatoria de los ingresos y los costos, tanto actuales como por cobrar, ademas el total de dinero en cajas<br>3. Calcular cuentas por cobrar => Muestra los detalles de las ventas que todavia no estan 'Pagas' y la sumatoria de los pagos pendientes de las mismas.<br>4. Reporte de ventas general => Muestra Producto mas vendido, mas rentable, ingreso actual, ingreso pendiente, porcentajes de ventas |
 
 
 
