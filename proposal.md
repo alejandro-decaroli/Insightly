@@ -16,8 +16,7 @@
 Velzia es un mini ERP.
 
 ### Modelo
-<img width="1341" height="1020" alt="BBD_Velzia_2 drawio" src="https://github.com/user-attachments/assets/ff5f05d7-c341-4269-af9e-4afcff89947b" />
-
+<img width="1341" height="1020" alt="BBD_Velzia drawio3" src="https://github.com/user-attachments/assets/050857b3-61ae-459e-a86f-8862ae9fb21f" />
 
 ## Alcance Funcional 
 
@@ -41,7 +40,7 @@ Adicionales para Aprobación
 ### Alcance Adicional Voluntario
 |Req|Detalle|
 |:-|:-|
-|Listado<br>+<br>detalle| 1. Calcular cuentas por gastar => muestra únicamente los detalles de los costos con estado 'Pendiente' por pagar y la sumatoria de los gastos<br>2. Calcular proyección => Muestra la sumatoria de los ingresos y los costos, tanto actuales como por cobrar, ademas el total de dinero en cajas<br>3. Calcular cuentas por cobrar => Muestra los detalles de las ventas que todavia no estan 'Pagas' y la sumatoria de los pagos pendientes de las mismas.<br>4. Reporte de ventas general => Muestra Producto mas vendido, mas rentable, ingreso actual, ingreso pendiente, porcentajes de ventas |
+|Listado<br>+<br>detalle| 1. Calcular cuentas por gastar => muestra únicamente los detalles de los costos con estado 'Pendiente' por pagar y la sumatoria de los gastos<br>2. Calcular proyección => Muestra la sumatoria de los ingresos y los costos, tanto actuales como por cobrar, ademas el total de dinero en cajas<br>3. Calcular cuentas por cobrar => Muestra los detalles de las ventas que todavia no estan 'Pagas' y la sumatoria de los pagos pendientes de las mismas.<br>4. Reporte de ventas general => Muestra Producto mas vendido, mas rentable, ingreso actual, ingreso pendiente, porcentajes de ventas<br>5. Listado de costos variables por fecha y estado => muestra detalle de cada costo<br>6. Listado de transferencias por fecha => muestra detalle de cada transferencia<br>7. Listado de productos por fecha =>  muestra el detalle de cada producto<br>8. Listado de clientes por fecha => muestra el detalle de cada cliente |
 
 
 
