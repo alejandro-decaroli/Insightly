@@ -16,7 +16,8 @@
 Velzia es un mini ERP.
 
 ### Modelo
-<img width="1341" height="1041" alt="BBD_Velzia4 drawio" src="https://github.com/user-attachments/assets/6702f500-d0cc-45ae-8ed1-b9dac5f4ae36" />
+<img width="1341" height="1041" alt="BBD_Velzia5 drawio" src="https://github.com/user-attachments/assets/f63fb79a-c94e-4db1-af57-982eb885307a" />
+
 
 
 ## Alcance Funcional 
