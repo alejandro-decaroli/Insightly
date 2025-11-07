@@ -38,7 +38,7 @@ Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
 |CRUD |1. CRUD Caja<br>2. CRUD Cliente<br>3. CRUD Tasa<br>4. CRUD Venta<br>5. CRUD Pago<br>6. CRUD CostoVariable<br>7. CRUD CostoFijo<br>8. CRUD Transferencia<br>9. CRUD Ajuste<br>10. CRUD DividendoSocio<br>11. CRUD AporteSocio<br>12. CRUD Producto<br>13. CRUD Detalle<br>14. CRUD Moneda<br>15. CRUD Usuario |
-|CUU/Epic||
+|CUU/Epic|1. Efectuar una venta<br>2. Efectuar un costo fijo<br>3. Efectuar un costo variable|
 
 ### Alcance Adicional Voluntario
 |Req|Detalle|
