@@ -13,7 +13,7 @@
 
 ## Tema
 ### Descripción
-Velzia es un mini ERP.
+Velzia es una herramienta para registrar y auditar diversos movimientos financieros de un negocio pequeño, a fin de tener datos con los cuales analizar y extraer información valiosa para el dueño del negocio. 
 
 ### Modelo
 <img width="1296" height="1041" alt="BBD_Velzia6 drawio" src="https://github.com/user-attachments/assets/ac47e9da-f8af-434d-902d-b3852da09989" />
